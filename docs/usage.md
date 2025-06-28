@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[InternLM大语言模型](https://marketplace.huaweicloud.com/hidden/contents/91ef08ac-85b7-4092-85cb-46bef1c805ba#productid=OFFI1121281402292875264)
+[InternLM大语言模型](https://marketplace.huaweicloud.com/contents/91ef08ac-85b7-4092-85cb-46bef1c805ba#productid=OFFI1121281402292875264)
 
 # 二、商品说明
 
