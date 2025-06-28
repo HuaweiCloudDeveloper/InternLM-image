@@ -20,7 +20,7 @@
 - Have general tool invocation capabilities, allowing users to flexibly build their own processes.
 - Provide a lightweight training framework for model pre - training. There's no need to install a large number of dependency packages. A single set of code supports pre - training on thousands of cards and single - card human preference alignment training, while achieving extreme performance optimization with an acceleration efficiency of nearly 90% under thousands of cards training.
 
-The open - source image product [**InternLM Large Language Model**](https://marketplace.huaweicloud.com/hidden/contents/91ef08ac-85b7-4092-85cb-46bef1c805ba#productid=OFFI1121281402292875264) provided by this project has InternLM2.5 - 1.8B - Chat and its related operating environment pre - installed, and also provides deployment templates. Come and refer to the usage guide to easily start your "out - of - the - box" efficient experience!
+The open - source image product [**InternLM Large Language Model**](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7) provided by this project has InternLM2.5 - 1.8B - Chat and its related operating environment pre - installed, and also provides deployment templates. Come and refer to the usage guide to easily start your "out - of - the - box" efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 4vCPUs or higher
@@ -32,13 +32,13 @@ The open - source image product [**InternLM Large Language Model**](https://mark
 
 ## Image Description
 
-| Image Specification                                                                                            | Feature Description | Remarks |
-|-------------------------------------------------------------------------------------------------| --- | --- |
-| [internlm2_5 - 1_8b - chat - arm - v1.0](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-arm-v1.0) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64 - bit |  |
+| Image Specification                                                                                                            | Feature Description | Remarks |
+|--------------------------------------------------------------------------------------------------------------------------------| --- | --- |
+| [internlm2_5-1_8b-chat-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64 - bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issue](https://github.com/HuaweiCloudDeveloper/InternLM-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
-- For other open - source images, refer to [open - source - image - repos](https://github.com/HuaweiCloudDeveloper/open - source - image - repos)
+- For other open - source images, refer to [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## How to Contribute
 - Fork this repository and submit a merge request.
