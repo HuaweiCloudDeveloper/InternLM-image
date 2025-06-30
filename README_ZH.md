@@ -38,7 +38,7 @@
 
 | 镜像规格                                                                                                                           | 特性说明 | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------| --- | --- |
-| [internlm2_5-1_8b-chat-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [internlm2_5-1_8b-chat-kunpeng](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/InternLM-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
