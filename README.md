@@ -34,7 +34,7 @@ The open - source image product [**InternLM Large Language Model**](https://mark
 
 | Image Specification                                                                                                            | Feature Description | Remarks |
 |--------------------------------------------------------------------------------------------------------------------------------| --- | --- |
-| [internlm2_5-1_8b-chat-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64 - bit |  |
+| [internlm2_5-1_8b-chat-kunpeng](https://github.com/HuaweiCloudDeveloper/InternLM-image/tree/internlm2_5-1_8b-chat-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64 - bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issue](https://github.com/HuaweiCloudDeveloper/InternLM-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
